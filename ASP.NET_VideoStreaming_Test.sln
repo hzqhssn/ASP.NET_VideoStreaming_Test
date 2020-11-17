@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_VideoStreaming_Test", "ASP.NET_VideoStreaming_Test\ASP.NET_VideoStreaming_Test.csproj", "{C279D2D5-99F0-40AC-B1F2-5492D21CDF16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C279D2D5-99F0-40AC-B1F2-5492D21CDF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C279D2D5-99F0-40AC-B1F2-5492D21CDF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C279D2D5-99F0-40AC-B1F2-5492D21CDF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C279D2D5-99F0-40AC-B1F2-5492D21CDF16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B22C05E-0CAC-4461-85EC-6F7C514226A0}
+	EndGlobalSection
+EndGlobal
